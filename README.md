@@ -4,8 +4,8 @@ Dok is an open-source experimental document browser project that aims to build a
 and robust stable way for all users to experience the web. 
 
 Dok is a fork of Chromium with some removed features:
-1. Google Integration
-2. JavaScript support
+1. No Google Integration
+2. No JavaScript support
 3. No methods other than GET
 4. No cookies.
 
