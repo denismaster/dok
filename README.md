@@ -1,9 +1,15 @@
-# ![Logo](chrome/app/theme/chromium/product_logo_64.png) Chromium
+# Dok
 
-Chromium is an open-source browser project that aims to build a safer, faster,
-and more stable way for all users to experience the web.
+Dok is an open-source experimental document browser project that aims to build a much more safer, faster,
+and robust stable way for all users to experience the web. 
 
-The project's web site is https://www.chromium.org.
+Dok is a fork of Chromium with some removed features:
+1. Google Integration
+2. JavaScript support
+3. No methods other than GET
+4. No cookies.
+
+This concept is based on http://blog.danieljanus.pl/2019/10/07/web-of-documents/
 
 Documentation in the source is rooted in [docs/README.md](docs/README.md).
 
